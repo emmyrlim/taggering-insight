@@ -1,0 +1,3 @@
+LLM powered card app that tries to derive "Tags" from a card
+
+It tries to read a custom card (or existing card) and its library of all other cards, then try to recommend cards that are "similiar" or "synergize with"
